@@ -28,6 +28,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [BreachDirectory](https://breachdirectory.org/) - Free data breach search
 - [Snusbase](https://snusbase.com/) - Breach database search
 - [Ghost Project](https://ghostproject.fr/) - Password breach checker
+- [Exposure Check OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted breach exposure checker for email, username, and phone across 19 keyless OSINT sources
 
 ## Dark Web Monitoring
 
